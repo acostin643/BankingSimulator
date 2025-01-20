@@ -1,0 +1,35 @@
+commit f69b9236c58736207fe8386d23b2332b29bfad19
+Author: constantin.baltag <acostin643@Vivobook15X>
+Date:   Thu Dec 19 20:22:25 2024 +0200
+
+    gata toata tema frfr
+
+commit 897d1a449c19598e1af0acbda500ac6b2083aac8
+Author: constantin.baltag <acostin643@Vivobook15X>
+Date:   Thu Dec 19 16:29:07 2024 +0200
+
+    gata tema
+
+commit a7a1acd1609079e4521e63b04820b711759a6b63
+Author: constantin.baltag <acostin643@Vivobook15X>
+Date:   Wed Dec 18 20:24:11 2024 +0200
+
+    inca o schimbare
+
+commit e8693c98759db252607446db816fdeea70a61286
+Author: constantin.baltag <acostin643@Vivobook15X>
+Date:   Mon Dec 16 23:41:58 2024 +0200
+
+    am mai facut niste schimbari
+
+commit f6b648472a89843f2c9e28ec7f3e492ff92e96e7
+Author: constantin.baltag <acostin643@Vivobook15X>
+Date:   Fri Dec 6 16:42:53 2024 +0200
+
+    inceput tema 0
+
+commit 4c4c3547e2e9eb285cd63a2bfdcf42c29293769b
+Author: acostin643 <130503509+acostin643@users.noreply.github.com>
+Date:   Fri Dec 6 16:36:27 2024 +0200
+
+    Initial commit
